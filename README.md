@@ -1,6 +1,6 @@
 <div align="center">
 
-# Settings for Zed editor
+# Settings for Zed editor ⚙️
 
 My settings for Zed Editor.
 
