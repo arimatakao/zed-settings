@@ -1,0 +1,102 @@
+{
+    "project_panel": {
+        "dock": "right",
+        "button": false
+    },
+    "outline_panel": {
+        "dock": "right",
+        "button": false
+    },
+    "notification_panel": {
+        "button": false
+    },
+    "scrollbar": {
+        "diagnostics": true,
+        "cursors": true
+    },
+    "toolbar": {
+        "quick_actions": false,
+        "selections_menu": false
+    },
+    "preview_tabs": {
+        "enabled": false
+    },
+
+    "tab_bar": {
+        "show_nav_history_buttons": false
+    },
+    "tabs": {
+        "file_icons": true,
+        "close_position": "right"
+    },
+    "terminal": {
+        "blinking": "off",
+        "button": false
+    },
+
+    "features": {
+        "copilot": false,
+        "inline_completion_provider": "none"
+    },
+    "assistant": {
+        "enabled": false,
+        "version": "2",
+        "button": false
+    },
+    "assistant_v2": {
+        "enabled": false
+    },
+    "collaboration_panel": {
+        "button": false
+    },
+    "chat_panel": {
+        "button": false,
+        "dock": "bottom"
+    },
+
+    "vim": {
+        "use_system_clipboard": "on_yank"
+    },
+    "git": {
+        "git_gutter": "hide",
+        "gutter_debounce": 0,
+        "inline_blame": {
+            "enabled": false
+        }
+    },
+
+    "confirm_quit": true,
+    "base_keymap": "VSCode",
+    "remove_trailing_whitespace_on_save": true,
+    "current_line_highlight": "all",
+    "cursor_blink": false,
+    "vim_mode": true,
+    "tab_size": 4,
+    "telemetry": {
+        "metrics": false,
+        "diagnostics": false
+    },
+    "buffer_font_family": "Fira Code",
+    "ui_font_size": 16,
+    "buffer_font_size": 16,
+    "theme": {
+        "mode": "system",
+        "light": "Materialized Gruvbox Dark",
+        "dark": "Materialized Gruvbox Dark"
+    },
+    "languages": {
+        "Go": {
+            "tab_size": 8,
+            "formatter": "language_server",
+            "wrap_guides": [100]
+        }
+    },
+    "inlay_hints": {
+        "enabled": true,
+        "show_type_hints": true,
+        "show_parameter_hints": true,
+        "show_other_hints": true,
+        "edit_debounce_ms": 700,
+        "scroll_debounce_ms": 50
+    }
+}
